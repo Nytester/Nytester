@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Startup, sention-p.vercel.app <br>👯 I’m looking to collaborate on Cloud and AI projects<br>🤝 I’m looking for help with Cloud projects<br>🌱 I’m currently learning AWS AI Developer<br>💬 Ask me about whatever you want<br>⚡ Fun fact: Life is so busy right now
+🔭 I’m currently working on my Startup, sentio-p.vercel.app <br>👯 I’m looking to collaborate on Cloud and AI projects<br>🤝 I’m looking for help with Cloud projects<br>🌱 I’m currently learning AWS AI Developer<br>💬 Ask me about whatever you want<br>⚡ Fun fact: Life is so busy right now
 
 
 ## 🌐 Socials:
